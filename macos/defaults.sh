@@ -1,4 +1,4 @@
-COMPUTER_NAME="t"
+COMPUTER_NAME="it"
 LANGUAGES=(en nl)
 LOCALE="en_US@currency=EUR"
 MEASUREMENT_UNITS="Centimeters"
