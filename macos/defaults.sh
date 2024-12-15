@@ -1,6 +1,6 @@
 COMPUTER_NAME="it"
 LANGUAGES=(en nl)
-LOCALE="en_US@currency=used"
+LOCALE="en_US@currency=USD"
 MEASUREMENT_UNITS="Centimeters"
 SCREENSHOTS_FOLDER="${HOME}/Screenshots"
 
