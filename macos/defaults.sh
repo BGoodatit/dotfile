@@ -1,7 +1,7 @@
 COMPUTER_NAME="it"
 LANGUAGES=(en nl)
 LOCALE="en_US@currency=USD"
-MEASUREMENT_UNITS="Centimeters"
+MEASUREMENT_UNITS="Inches"
 SCREENSHOTS_FOLDER="${HOME}/Screenshots"
 
 # Topics
